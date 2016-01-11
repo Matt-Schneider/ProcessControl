@@ -1,0 +1,7 @@
+For detailed instructions please see blog.mdschneider.me
+
+Quick steps
+1. Place all files in c:\Program Files (x86)\ProcessControl
+2. Register ProcessControl.exe as service 
+3. Modify ProcessControlParams.xml 
+4. Start service

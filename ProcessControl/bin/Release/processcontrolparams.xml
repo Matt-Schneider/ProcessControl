@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProcessControl>
+<Process Name="Default" Priority="" Affinity="255"/>
+<!-- <Process Name="myProcess" Priority="High" Affinity="255"/> -->
+
+</ProcessControl>
+
+<!-- Processor Affinity Map - up to 8 cores
+All 8 = 255
+4-7 = 240
+2,3 = 12
+0,1 = 3
+4,5 = 48
+6,7 = 192
+1,2 = 3
+-->
