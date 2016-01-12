@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ProcessControl>
-<Process Name="Default" Priority="" Affinity="255"/>
+<Process Name="Default" Priority="" Affinity=""/>
 <!-- <Process Name="myProcess" Priority="High" Affinity="255"/> -->
 
 </ProcessControl>
